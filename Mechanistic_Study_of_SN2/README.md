@@ -14,7 +14,7 @@ This is a classic bimolecular nucleophilic substitution (S<sub>N</sub>2) reactio
 
 ## 🛠 Tools Used
 
-- **Psi4** – quantum chemistry package for electronic structure calculations
+- **Psi4** – quantum chemistry package for electronic structure and energy calculations
 - **NumPy / Pandas / Matplotlib / py3Dmol** – for analysis and visualization
 
 ## 📊 Workflow Summary
@@ -25,20 +25,3 @@ This is a classic bimolecular nucleophilic substitution (S<sub>N</sub>2) reactio
 4. **Single Point Energy Calculations** at MP2/6-31++G(d,p) level
 5. **Zero-Point Energy (ZPE) Corrections**
 6. **Potential Energy Surface (PES) Plot**
-
-## 📄 Files Included
-
-- `sn2_study.ipynb`: Main Jupyter Notebook containing all code and analysis
-- `*.dat`: Output files from Psi4 calculations
-- `TS_animation.gif`: Vibrational mode of TS
-
-## 📚 References
-
-1. Frisch, A. E., & Foresman, J. B. *Exploring Chemistry with Electronic Structure Methods*.
-2. Radom, L.; Pople, J. A.; & Schleyer, P. V. R. "Ab initio molecular orbital theory of SN2 reactions," *J. Am. Chem. Soc.*, **1989**, *111*, 1575–1579.
-3. Maréchal, J.-D. *Proceedings* **2019**, *41*, 81. https://doi.org/10.3390/ecsoc-23-06514
-
----
-
-This Python project is part of the author's computational chemistry learning portfolio.
-
