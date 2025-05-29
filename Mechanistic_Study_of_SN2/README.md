@@ -14,8 +14,8 @@ This is a classic bimolecular nucleophilic substitution (S<sub>N</sub>2) reactio
 
 ## 🛠 Tools Used
 
-- **Psi4** – quantum chemistry package for electronic structure and energy calculations
-- **NumPy / Pandas / Matplotlib / py3Dmol** – for analysis and visualization
+- `Psi4` – quantum chemistry package for electronic structure and energy calculations
+- `NumPy` / `Pandas` / `Matplotlib` / `py3Dmol` – for data analysis and visualization
 
 ## 📊 Workflow Summary
 
