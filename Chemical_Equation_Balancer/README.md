@@ -1,4 +1,4 @@
-# Chemical_Equation_Balancer
+# Chemical Equation Balancer
 
 ## Overview
 This Python script balances chemical equations using a randomized coefficient approach. It allows users to input chemical formulas in various formats, including:
@@ -7,16 +7,6 @@ This Python script balances chemical equations using a randomized coefficient ap
 - **Formulas with brackets** (e.g., `Ca3(PO4)2`)
 
 The script parses the input, identifies elements and their occurrences, and determines the appropriate coefficients to balance the equation.
-
-## Features
-- **Supports diverse chemical formula formats**
-- **Handles subscripts and bracketed groups**
-- **Uses a randomized approach to find balancing coefficients**
-- **Automatically simplifies coefficients using the greatest common divisor (GCD)**
-
-## Requirements
-- Python 3.x
-- No additional libraries are required (only built-in Python modules are used)
 
 ## Usage
 1. Run the script in a Python environment.
