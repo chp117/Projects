@@ -25,7 +25,8 @@ This project explores the reactivity and orbital interactions in Diels–Alder (
 
 ## 📁 Folder Contents
 
-- `Diels_Alder_Reaction.ipynb` - Main notebook with all analysis and plots  
+- `Diels_Alder_Reaction.ipynb` - Main notebook with all analysis and plots
+- `output_DA.dat` - Output file from Psi4 calculations 
 - `molecule/` - Input geometries in Z-matrix for calculations  
 - `orbital/` - Cube and xyz files for orbital visualization
 - `media/` - Figures used in the notebook
