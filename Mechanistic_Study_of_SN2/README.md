@@ -25,3 +25,10 @@ This is a classic bimolecular nucleophilic substitution (S<sub>N</sub>2) reactio
 4. **Single Point Energy Calculations** at MP2/6-31++G(d,p) level
 5. **Zero-Point Energy (ZPE) Corrections**
 6. **Potential Energy Surface (PES) Plot** of reaction path
+
+## 📄 Files Included
+
+- `SN2_Reaction.ipynb` - Main notebook with all code and analysis
+- `TS_animation.gif` - GIF file of TS vibration animation
+- `output.dat` - Output file from Psi4 calculations 
+- `*.molden_normal_modes` - Output file from frequency calculation for visualization of vibrational modes   
