@@ -19,9 +19,9 @@ This is a classic bimolecular nucleophilic substitution (S<sub>N</sub>2) reactio
 
 ## 📊 Workflow Summary
 
-1. **Geometry Optimizations** for reactants, products, intermediates, and TS
+1. **Geometry Optimizations** at HF/6-31+G(d) for reactants, products, intermediates, and TS
 2. **Frequency Calculations** to confirm Minima and TS (imaginary frequency)
 3. **IRC Calculations** (forward and backward) to confirm connection between minima and TS
 4. **Single Point Energy Calculations** at MP2/6-31++G(d,p) level
 5. **Zero-Point Energy (ZPE) Corrections**
-6. **Potential Energy Surface (PES) Plot**
+6. **Potential Energy Surface (PES) Plot** of reaction path
