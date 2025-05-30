@@ -14,7 +14,7 @@ This repository showcases my journey of learning and integrating Python programm
 A quantum chemical study of the S<sub>N</sub>2 reaction mechanism.  
 Includes **transition state (TS) search**, **IRC calculations**, and **energy profile analysis** using Psi4.
 
-#### [Computational Analysis of Diels-Alder Reaction](./Diels-Alder)
+#### [Computational Analysis of Diels-Alder Reaction](./Diels_Alder)
 Explores reactivity and orbital interactions in Diels–Alder reactions through quantum chemistry.  
 Focuses on **FMO analysis**, **substituent effects**, **PES scans**, and **3D orbital visualization** using Psi4.
 
@@ -26,7 +26,7 @@ Focuses on **FMO analysis**, **substituent effects**, **PES scans**, and **3D or
 Develops a prediction model for **aqueous solubility (LogS)** of drug-like molecules using **Machine Learning** (MLR and Random Forest).  
 Features **data wrangling**, **Mordred molecular descriptors**, **model evaluation**, and **feature importance**.
 
-#### [Chemical Equation Balancer](./Equation-Balancer)
+#### [Chemical Equation Balancer](./Chemical_Equation_Balancer)
 A Python script for balancing chemical equations from diverse input formats including molecular/condensed formulas of organic molecules and formulas with brackets for inorganic compounds.
 
 ---
