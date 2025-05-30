@@ -16,15 +16,15 @@ This project focuses on predicting the **aqueous solubility (LogS)** of small dr
 1. **Data Retrieval**: SMILES strings retrieved from PubChem using the PUG REST API
 2. **Data Cleaning**: Removal of invalid entries, missing values, and duplicates
 3. **Descriptor Calculation**: Mordred descriptors computed, followed by filtering steps:
-  - Removal of categorical descriptors
-  - Elimination of low-variance and highly correlated descriptors
+   - Removal of categorical descriptors
+   - Elimination of low-variance and highly correlated descriptors
 4. **Model Training**: 80:20 train-test split
-  - MLR model with VIF-based feature selection to mitigate multicollinearity
-  - Random Forest model with hyperparameter tuning
+   - MLR model with VIF-based feature selection to mitigate multicollinearity
+   - Random Forest model with hyperparameter tuning
 5. **Model Evaluation**: Using R², RMSE, and MAE
 6. **Feature Interpretation**:
-  - MLR: Regression coefficients
-  - RF: SHAP values and summary plots
+   - MLR: Regression coefficients
+   - RF: SHAP values and summary plots
 7. **Visualization**: Bar charts, scatter plots, and SHAP plots to highlight important descriptors
 
 ## 📄 Files Included
