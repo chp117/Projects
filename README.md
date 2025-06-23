@@ -10,24 +10,24 @@ This repository showcases my journey of learning and integrating Python programm
 
 ### 🧪 Computational Chemistry
 
-#### [Computational Mechanistic Study of S<sub>N</sub>2 Reaction](./Mechanistic_Study_of_SN2)
-A quantum chemical study of the S<sub>N</sub>2 reaction mechanism.  
-Includes **transition state (TS) search**, **IRC calculations**, and **energy profile analysis** using Psi4.
+#### [Computational Mechanistic Study of S<sub>N</sub>2 Reaction](./Mechanistic_Study_of_SN2)    
+>A quantum chemical study of the **S<sub>N</sub>2 reaction mechanism** and energy profile analysis.  
+>`Psi4` • `Hartree–Fock` • `Basis Sets` • `Geometry Optimization` • `TS Search` • `IRC calculation`
 
 #### [Computational Analysis of Diels-Alder Reaction](./Diels_Alder)
-Explores reactivity and orbital interactions in Diels–Alder reactions through quantum chemistry.  
-Focuses on **FMO analysis**, **substituent effects**, **PES scans**, and **3D orbital visualization** using Psi4.
+>Explores reactivity and orbital interactions in **Diels–Alder reactions** through quantum chemistry.  
+>`Psi4` • `FMO analysis` • `PES scans` • `3D orbital visualization`
 
 ---
 
 ### 💻 Cheminformatics
 
 #### [Molecular Property Prediction](./Molecular_Property_Prediction)
-Develops a prediction model for **aqueous solubility (LogS)** of drug-like molecules using **Machine Learning** (MLR and Random Forest).  
-Features **data wrangling**, **Mordred molecular descriptors**, **model evaluation**, and **feature importance**.
+>Develops a prediction model for **aqueous solubility (LogS)** of drug-like molecules using **Machine Learning** (MLR and Random Forest).   
+>`Mordred Descriptors` • `Data Wrangling` • `ML Models` • `Model Evaluation` • `Feature Importance`
 
 #### [Chemical Equation Balancer](./Chemical_Equation_Balancer)
-A Python script for balancing chemical equations from diverse input formats including molecular/condensed formulas of organic molecules and formulas with brackets for inorganic compounds.
+>A Python script for balancing chemical equations from diverse input formats including molecular/condensed formulas of organic molecules and formulas with brackets for inorganic compounds.
 
 ---
 
