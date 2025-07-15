@@ -8,8 +8,6 @@ This repository showcases my journey of learning and integrating Python programm
 
 ## Project Overview
 
-### 🧪 Computational Chemistry
-
 #### [Computational Mechanistic Study of S<sub>N</sub>2 Reaction](./Mechanistic_Study_of_SN2)    
 >A quantum chemical study of the **S<sub>N</sub>2 reaction mechanism** and energy profile analysis.  
 >`Psi4` • `Hartree–Fock` • `Basis Sets` • `Geometry Optimization` • `TS Search` • `IRC calculation`
@@ -18,9 +16,8 @@ This repository showcases my journey of learning and integrating Python programm
 >Explores reactivity and orbital interactions in **Diels–Alder reactions** through quantum chemistry.  
 >`Psi4` • `FMO analysis` • `PES scans` • `3D orbital visualization`
 
----
-
-### 💻 Cheminformatics
+#### [Molecular Docking Study of Upadacitinib to JAK1](./Molecular_Docking_Study)
+>Work in Progess!
 
 #### [Molecular Property Prediction](./Molecular_Property_Prediction)
 >Develops a prediction model for **aqueous solubility (LogS)** of drug-like molecules using **Machine Learning** (MLR and Random Forest).   
