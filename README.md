@@ -16,15 +16,16 @@ This repository showcases my journey of learning and integrating Python programm
 >Explores reactivity and orbital interactions in **Diels–Alder reactions** through quantum chemistry.  
 >`Psi4` • `FMO analysis` • `PES scans` • `3D orbital visualization`
 
-#### [Molecular Docking Study of Upadacitinib to JAK1](./Molecular_Docking_Study)
->Work in Progess!
-
 #### [Molecular Property Prediction](./Molecular_Property_Prediction)
 >Develops a prediction model for **aqueous solubility (LogS)** of drug-like molecules using **Machine Learning** (MLR and Random Forest).   
 >`Mordred Descriptors` • `Data Wrangling` • `ML Models` • `Model Evaluation` • `Feature Importance`
 
 #### [Chemical Equation Balancer](./Chemical_Equation_Balancer)
 >A Python script for balancing chemical equations from diverse input formats including molecular/condensed formulas of organic molecules and formulas with brackets for inorganic compounds.
+
+#### [Molecular Docking Study of Upadacitinib to JAK1](./Molecular_Docking_Study)
+>❗ Work in Progess    
+>`AutoDock Vina` • `Ligand & Target Protein Preparation` • `Molecular Dynamics`
 
 ---
 
