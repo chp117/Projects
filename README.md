@@ -9,11 +9,11 @@ This repository showcases my journey of learning and integrating Python programm
 ## Project Overview
 
 #### [Computational Mechanistic Study of S<sub>N</sub>2 Reaction](./Mechanistic_Study_of_SN2)    
->A quantum chemical study of the **S<sub>N</sub>2 reaction mechanism** and energy profile analysis.  
+>A quantum chemical study of the S<sub>N</sub>2 **reaction mechanism** and **energy profile** analysis.  
 >`Psi4` • `Hartree–Fock` • `Basis Sets` • `Geometry Optimization` • `TS Search` • `IRC calculation`
 
 #### [Computational Analysis of Diels-Alder Reaction](./Diels_Alder)
->Explores reactivity and orbital interactions in **Diels–Alder reactions** through quantum chemistry.  
+>Explores **reactivity** and **orbital interactions** in Diels–Alder reactions through quantum chemistry.  
 >`Psi4` • `FMO analysis` • `PES scans` • `3D orbital visualization`
 
 #### [Molecular Property Prediction](./Molecular_Property_Prediction)
