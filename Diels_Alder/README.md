@@ -2,12 +2,12 @@
 
 This project explores the reactivity and orbital interactions in Diels–Alder (DA) reactions through quantum chemical calculations using Psi4 and Python. It focuses on the effect of substituents on frontier molecular orbitals (FMOs), rotational conformers, and energy gaps. The study includes geometry optimization, orbital energy calculation, potential energy surface (PES) scans, and 3D visualization of molecular orbitals.
 
-## 🛠 Tools Used
+## Tools Used
 
 - `Psi4` – quantum chemistry package for electronic structure and energy calculations  
 - `NumPy` / `Matplotlib` / `RDKit` / `py3Dmol` – for data analysis and visualization 
 
-## 🧪 Project Structure
+## Project Structure
 
 **Part 1: Effect of Dienophile Electron Deficiency on Diels–Alder Reaction Rates**  
 - Performed geometry optimizations of various substituted ethene dienophiles and calculated LUMO energies.
@@ -23,7 +23,7 @@ This project explores the reactivity and orbital interactions in Diels–Alder (
 **Part 4: Visualization of the Frontier Molecular Orbitals**
 - Visualized HOMO/LUMO orbitals to assess phase symmetry and orbital overlap compatibility.
 
-## 📁 Folder Contents
+## Folder Contents
 
 - `Diels_Alder_Reaction.ipynb` - Main notebook with all code and analysis
 - `output_DA.dat` - Output file from Psi4 calculations
