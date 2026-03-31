@@ -6,18 +6,18 @@ This project presents a computational investigation of the S<sub>N</sub>2 reacti
 > The interactive 3D molecular visualizations powered by `py3Dmol` **do not render on GitHub** due to JavaScript restrictions.
 > To view the full notebook with 3D structures properly displayed, open it in [nbviewer](https://nbviewer.org/github/chp117/Projects/blob/main/Mechanistic_Study_of_SN2/SN2_Reaction.ipynb).
 
-## 🧪 Reaction Overview
+## Reaction Overview
 
 **CH₃Cl + F⁻ → CH₃F + Cl⁻**
 
 This is a classic bimolecular nucleophilic substitution (S<sub>N</sub>2) reaction. The goal of this study is to calculate the potential energy surface (PES) and understand the changes in molecule geometry throughout the reaction path.
 
-## 🛠 Tools Used
+## Tools Used
 
 - `Psi4` – quantum chemistry package for electronic structure and energy calculations
 - `NumPy` / `Pandas` / `Matplotlib` / `py3Dmol` – for data analysis and visualization
 
-## 📊 Workflow Summary
+## Workflow Summary
 
 1. **Geometry Optimizations** at HF/6-31+G(d) for reactants, products, intermediates, and TS
 2. **Frequency Calculations** to confirm Minima and TS (imaginary frequency)
@@ -26,7 +26,7 @@ This is a classic bimolecular nucleophilic substitution (S<sub>N</sub>2) reactio
 5. **Zero-Point Energy (ZPE) Corrections**
 6. **Potential Energy Surface (PES) Plot** of reaction path
 
-## 📄 Files Included
+## Files Included
 
 - `SN2_Reaction.ipynb` - Main notebook with all code and analysis
 - `TS_animation.gif` - GIF file of TS vibration animation
