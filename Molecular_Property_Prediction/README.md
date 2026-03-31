@@ -2,7 +2,7 @@
 
 This project focuses on predicting the **aqueous solubility (LogS)** of small drug-like molecules using **machine learning (ML)** models trained on experimental data and computed molecular descriptors. The goal is to build reliable predictive models using **Multiple Linear Regression (MLR)** and **Random Forest (RF)**, compare their performance, and interpret the role of molecular features using statistical coefficients and SHAP values. The project further aims to visualize feature importance, helping to identify key descriptors that influence solubility.
 
-## 🛠 Tools Used
+## Tools Used
 
 - `RDKit`: for generating Mol objects used for descriptor calculations
 - `Mordred`: for computing a wide range of molecular descriptors
@@ -11,7 +11,7 @@ This project focuses on predicting the **aqueous solubility (LogS)** of small dr
 - `SHAP` (SHapley Additive exPlanations): for interpreting feature importance in the RF model
 - `Matplotlib`: Visualization of model performance and feature importance
 
-## 📊 Workflow Summary
+## Workflow Summary
 
 1. **Data Retrieval**: SMILES strings retrieved from PubChem using the PUG REST API
 2. **Data Cleaning**: Removal of invalid entries, missing values, and duplicates
@@ -23,7 +23,7 @@ This project focuses on predicting the **aqueous solubility (LogS)** of small dr
 5. **Model Evaluation**: using R², RMSE, and MAE
 6. **Feature Importance Interpretation**: Coefficient plot and SHAP value plots
 
-## 📄 Files Included
+## Files Included
 
 - `Molecular_Property_Prediction.ipynb` – Main notebook with all code and analysis
 - `logS_dataset.csv` – Original dataset from Source 1
