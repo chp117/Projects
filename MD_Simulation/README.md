@@ -1,4 +1,4 @@
-# Simple Molecular Dynamics Simulation of Lennard-Jones Fluids
+# Simple Molecular Dynamics Simulation
 
 This project presents a simple implementation of a Molecular Dynamics (MD) simulation using the Velocity-Verlet algorithm to generate the trajectories of a system containing 10 argon atoms. The study incorporates a velocity-rescaling thermostat to regulate temperature, performs rigorous energy tracking (kinetic, potential, and total energy), and provides visual trajectories of the atomic system.
 
