@@ -8,6 +8,10 @@ This repository showcases my journey of learning and integrating Python programm
 
 ## Project Overview
 
+#### [Simple Molecular Dynamics Simulation](./MD_Simulation)    
+> A molecular dynamics study implementing the **velocity-Verlet algorithm** with a **velocity-rescaling thermostat** and **energy tracking** to simulate a Lennard-Jones system.  
+> `Molecular Dynamics` • `Velocity-Verlet` • `Lennard-Jones Potential` • `Thermostat`
+
 #### [Computational Mechanistic Study of S<sub>N</sub>2 Reaction](./Mechanistic_Study_of_SN2)    
 >A quantum chemical study of the S<sub>N</sub>2 **reaction mechanism** and **energy profile** analysis.  
 >`Psi4` • `Hartree–Fock` • `Basis Sets` • `Geometry Optimization` • `TS Search` • `IRC calculation`
